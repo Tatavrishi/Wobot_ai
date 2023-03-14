@@ -5,7 +5,7 @@ FastAPI To-Do App with MongoDB This is a simple to-do app built using the FastAP
 
 Setup To get started with the project, follow these steps:
 
-Clone the repository to your local machine: git clone https://github.com/tatavrishi/To_Do_list.git
+Clone the repository to your local machine: git clone https://github.com/tatavrishi/wobot_ai.git
 
 Navigate to the project directory: cd fastapi-mongodb-todo
 
